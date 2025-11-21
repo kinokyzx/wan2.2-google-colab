@@ -1,16 +1,16 @@
 # Wan 2.2 Google Colab Template
 
-A ready-to-use Google Colab notebook template for running [Wan 2.2](https://github.com/Wan-Video/Wan2.2), an advanced image-to-video AI model. This template simplifies the setup process and provides an optimized workflow for generating videos from images on Colab's free GPU resources.
+A ready to use Google Colab notebook template for running [Wan 2.2](https://github.com/Wan-Video/Wan2.2), an advanced image to video AI model. This template simplifies the setup process and provides an optimized workflow for generating videos from images on Colab's free GPU resources.
 
-## 🌟 Features
+## Features
 
-- **One-Click Setup**: Automated installation of all dependencies and model downloads
-- **Optimized for Colab**: Pre-configured settings for Google Colab's free tier (also works on other notebook platforms)
+- **One Click Setup**: Automated installation of all dependencies and model downloads
+- **Optimized for Colab**: Pre-configured settings for Google Colab (also works on other notebook platforms)
 - **Memory Efficient**: Includes flags for model offloading and CPU-based text encoding to manage VRAM
-- **User-Friendly Interface**: Simple upload → configure → generate workflow
+- **User Friendly Interface**: Simple upload → configure → generate workflow
 - **Multiple Resolutions**: Support for 1280×720, 832×480, and 1024×1024 outputs
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Using the Notebook (Recommended)
 
@@ -28,7 +28,7 @@ A ready-to-use Google Colab notebook template for running [Wan 2.2](https://gith
    - The notebook will:
      - Clone the Wan 2.2 repository
      - Install all required dependencies
-     - Download the model (≈60GB, takes 5-10 minutes)
+     - Download the model (≈60GB, takes 5ish minutes)
      - Set up the generation pipeline
 
 4. **Generate Your Video**:
@@ -45,7 +45,7 @@ If you prefer working with Python scripts directly:
 # You can run it in any Python notebook environment
 ```
 
-## 📋 Requirements
+## Requirements
 
 ### Recommended Hardware (Google Colab)
 - **GPU**: NVIDIA A100 (40GB) or T4 (16GB)
@@ -60,7 +60,7 @@ All dependencies are automatically installed by the notebook:
 - Flash Attention
 - Various CV and ML libraries
 
-## 🎨 Usage Guide
+## Usage Guide
 
 ### Step 1: Upload Your Image
 The notebook will prompt you to upload an input image. Supported formats:
@@ -97,7 +97,7 @@ Run the generation cell and wait. Processing typically takes:
 ### Step 4: View Your Video
 The notebook automatically displays the generated video inline when complete.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 wan2.2-google-colab/
@@ -106,7 +106,7 @@ wan2.2-google-colab/
 └── README.md             # This file
 ```
 
-## 🔧 Customization
+## Customization
 
 ### Changing the Model
 To use a different Wan 2.2 checkpoint:
@@ -117,7 +117,7 @@ To use a different Wan 2.2 checkpoint:
 ### Advanced Parameters
 You can modify the generation command in Step 3 to add more flags. Refer to the [official Wan 2.2 repository](https://github.com/Wan-Video/Wan2.2) for all available options.
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 ### Out of Memory Errors
 If you encounter CUDA out of memory errors:
@@ -137,29 +137,28 @@ If you encounter CUDA out of memory errors:
 - Try the larger A14B model if using 1.3B
 - Experiment with different resolutions
 
-## 🙏 Credits
+## Credits
 
 - **Wan 2.2 Model**: [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
-- **Template Author**: Created for easy Colab deployment
 
-## 📝 License
+## License
 
 This template follows the same license as the Wan 2.2 project. Please refer to the [original repository](https://github.com/Wan-Video/Wan2.2) for licensing information.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have improvements or fixes:
 1. Fork this repository
 2. Make your changes
 3. Submit a pull request
 
-## 📚 Additional Resources
+## Additional Resources
 
 - [Wan 2.2 Official Repository](https://github.com/Wan-Video/Wan2.2)
 - [Hugging Face Model](https://huggingface.co/Wan-AI/Wan2.2-I2V-A14B)
 - [Google Colab Documentation](https://colab.research.google.com/)
 
-## 💬 Support
+## Support
 
 For issues specific to this template, please open an issue in this repository.
 
